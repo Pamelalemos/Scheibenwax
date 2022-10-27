@@ -1,0 +1,88 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Amatic SC", cursive;
+}
+
+.logo {
+  width: 400px;
+}
+
+body {
+  font-family: "Amatic SC", cursive;
+  font-size: 2rem;
+  text-decoration-color: black;
+}
+
+.site-header {
+  text-align: center;
+}
+
+.text-center {
+  text-align: center;
+}
+
+img {
+  max-width: 100;
+}
+img,
+svg {
+  vertical-align: middle;
+}
+body {
+  background-color: black;
+}
+
+a {
+  text-align: center;
+  color: white;
+  text-decoration: none;
+  justify-content: space-between;
+}
+
+footer {
+  color: white;
+  align-items: center;
+  justify-content: center;
+}
+
+.container {
+  width: 80%;
+  margin: auto;
+  max-width: 1328px;
+}
+
+li {
+  list-style: none;
+  justify-content: space-between;
+  text-decoration-color: white;
+}
+
+ul {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  text-decoration-color: white;
+}
+
+label {
+  color: white;
+  font-family: "Amatic SC", cursive;
+}
+h1 {
+  color: white;
+  font-family: "Amatic SC", cursive;
+}
+input {
+  color: black;
+}
+div {
+  color: white;
+}
+
+.News {
+  color: black;
+  font-size: 2rem;
+  font-weight: 50;
+}
