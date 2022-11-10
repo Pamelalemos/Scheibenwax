@@ -1,38 +1,3 @@
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-  font-family: "Amatic SC", cursive;
-}
-
-footer {
-  color: white;
-  align-items: center;
-  justify-content: center;
-}
-
-ul {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-
-li {
-  list-style: none;
-}
-
-a {
-  text-align: center;
-  color: white;
-  text-decoration: none;
-}
-
-.container {
-  width: 80%;
-  margin: auto;
-  max-width: 1328px;
-}
-
 body {
   font-family: "Amatic SC", cursive;
   font-size: 2rem;
@@ -42,7 +7,6 @@ body {
 .site-header {
   text-align: center;
 }
-
 .logo {
   width: 400px;
 }
@@ -50,21 +14,17 @@ body {
 .text-center {
   text-align: center;
 }
-
 h1 {
   color: white;
   font-family: "Amatic SC", cursive;
 }
-
 img {
   max-width: 100;
 }
-
 img,
 svg {
   vertical-align: middle;
 }
-
 label {
   color: white;
   font-family: "Amatic SC", cursive;
@@ -73,7 +33,6 @@ label {
 input {
   color: black;
 }
-
 div {
   color: white;
 }
@@ -83,5 +42,3 @@ div {
   font-size: 2rem;
   font-weight: 100;
 }
-
-/*# sourceMappingURL=style.css.map */

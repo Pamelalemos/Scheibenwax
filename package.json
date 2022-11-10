@@ -1,0 +1,20 @@
+{
+  "name": "scheibenwax---copia",
+  "version": "1.0.0",
+  "description": "futuro sitio de ventas de discos de vinilos y noticias sobre musica",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass --watch scss/style.scss css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pamelalemos/Scheibenwax.git"
+  },
+  "keywords": [],
+  "author": "Pamela Lemos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pamelalemos/Scheibenwax/issues"
+  },
+  "homepage": "https://github.com/Pamelalemos/Scheibenwax#readme"
+}
