@@ -42,3 +42,8 @@ div {
   font-size: 2rem;
   font-weight: 100;
 }
+
+@include mobile {
+}
+@include tablet {
+}
