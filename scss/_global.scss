@@ -1,10 +1,18 @@
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-  font-family: "Amatic SC", cursive;
-}
-@include mobile {
-}
-@include tablet {
-}
+$color_1: white;
+$color_2: black;
+$font-family_1: "Amatic SC", cursive;
+$background-color_1: black;
+
+/*# sourceMappingURL=style.css.map */
+$grid-breakpoints: (
+  xs: 0,
+  sm: 480px,
+  md: 768px,
+  lg: 1024px,
+);
+
+$container-max-widths: (
+  sm: 420px,
+  md: 720px,
+  lg: 960px,
+);
